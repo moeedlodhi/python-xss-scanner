@@ -1,6 +1,6 @@
 # python-xss-scanner
 
-A guide to building an XSS vulnerability tool in Python. Article is avialable [here]()
+A simple XSS vulnerability tool in Python. Article is avialable [here]()
 
 
 Installation
